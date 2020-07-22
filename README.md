@@ -51,7 +51,7 @@ For lunching App (in this file you should choose parameters of hacking):
 ```
 
 ## Features
-Hacking means:
+Hacking techniques:
 - Brute Force attack
 - Enumeration of the top 10 million most popular usernames
 - Enumeration of the top 10 million most popular passwords
