@@ -33,6 +33,7 @@ https://github.com/danielmiessler/SecLists/blob/master/Usernames/xato-net-10-mil
 > users.json — the file consists of the server's self-created usernames and corresponding passwords.
 
 ## Installation
+App requires Python 3+.
 
 ### Clone
 
