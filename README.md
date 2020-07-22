@@ -36,7 +36,7 @@ https://github.com/danielmiessler/SecLists/blob/master/Usernames/xato-net-10-mil
 
 ### Clone
 
--   Clone this repo to your local machine using  `https://github.com/fvcproductions/SOMEREPO`
+-   Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Accounts-Hacking-App.git`
 
 ### Setup
 Windows 10:
