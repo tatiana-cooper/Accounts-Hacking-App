@@ -37,16 +37,16 @@ App requires Python 3+.
 
 ### Clone
 
--   Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Accounts-Hacking-App.git`
+Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Accounts-Hacking-App.git`
 
 ### Setup
 Windows 10:
 
-For lunching server:
+For launching server:
 ```sh
 > python server.py
 ```
-For lunching App (in this file you should choose parameters of hacking):
+For launching App (in this file you should choose parameters of hacking):
 ```sh
 > python main.py
 ```
