@@ -1,7 +1,7 @@
 ﻿
 # Hacking user accounts App 
 
-*The program, through various manipulations and functions, performs attempts to hack user's accounts*
+*The program, through various manipulations and functions, performs attempts to hack user's accounts.*
 
 ![image](https://drive.google.com/uc?export=view&id=1jSjX5HAXOvVdR-prZ8byYnFLygoXpsXz)
 
