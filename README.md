@@ -23,7 +23,7 @@ In this project I mastered:
 
 > main.py — is the main file to launch app. In this file,  User should choose parameters of hacking-app corresponding to his needs.
 
-> queries.py — this file sends requests to the server with password and username. In this file's function, a request was adjusted for a self-created server (server.py) and self-created users (users.json).
+> queries.py — this file sends requests to the server with password and username. In this file's function, a request was adjusted for a self-created server (`server.py`) and self-created users (`users.json`).
 
 > 10-million-password-list-top-1000000.txt — the file consists of the top 10 million most popular passwords. Was taken from https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt.
 
@@ -53,8 +53,8 @@ For launching App (in this file you should choose parameters of hacking):
 
 ## Features
 Hacking techniques:
-- Brute Force attack
-- Enumeration of the top 10 million most popular usernames
-- Enumeration of the top 10 million most popular passwords
+- Brute Force attack;
+- Enumeration of the top 10 million most popular usernames;
+- Enumeration of the top 10 million most popular passwords.
 ---
  *This project was created during "Cracking and Brute Force attacks in Python" intensive classes by Skillbox University.*
