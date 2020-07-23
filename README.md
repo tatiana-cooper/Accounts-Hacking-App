@@ -5,7 +5,7 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1jSjX5HAXOvVdR-prZ8byYnFLygoXpsXz)
 
-*In this project I mastered:*
+In this project I mastered:
 
 **Python** <br>
 **Flask** <br>
